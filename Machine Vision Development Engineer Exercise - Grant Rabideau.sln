@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine Vision Development Engineer Exercise - Grant Rabideau", "Machine Vision Development Engineer Exercise - Grant Rabideau\Machine Vision Development Engineer Exercise - Grant Rabideau.csproj", "{003F7B12-8332-4DED-B30D-1C9E9BAA9B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003F7B12-8332-4DED-B30D-1C9E9BAA9B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003F7B12-8332-4DED-B30D-1C9E9BAA9B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003F7B12-8332-4DED-B30D-1C9E9BAA9B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003F7B12-8332-4DED-B30D-1C9E9BAA9B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52B316A9-3A34-4F73-8077-AD8FDE5090A7}
+	EndGlobalSection
+EndGlobal

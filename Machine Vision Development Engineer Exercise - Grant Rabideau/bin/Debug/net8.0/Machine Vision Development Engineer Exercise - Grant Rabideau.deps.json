@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Machine Vision Development Engineer Exercise - Grant Rabideau/1.0.0": {
+        "runtime": {
+          "Machine Vision Development Engineer Exercise - Grant Rabideau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Machine Vision Development Engineer Exercise - Grant Rabideau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
